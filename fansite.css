@@ -1,0 +1,131 @@
+body{
+    background-color: black;
+}
+header{
+    font-family: 'Permanent Marker', cursive;
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: solid red;}
+    a{
+      text-decoration: none; 
+      color: red; }
+h1{  
+    font-size: 250%;
+}
+#cat{
+    width: 33em;
+    display: flex;
+    justify-content: space-around;
+}
+main{
+     color: white;
+
+}
+h2{
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    font-size: 200%;
+}
+#accueil h3{
+    font-family: 'Figtree', sans-serif;
+    text-align: center;
+}
+#accueil{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+#accueil img{
+    width: 40em;
+    align-items: center;
+}
+#accueil p{
+    font-family: 'Figtree', sans-serif;
+    text-align: left;
+    width:100%;
+    font-size: 100%;
+}
+.preface {
+    text-align: left;
+    width: 100%;
+}
+.boogeyman{
+    font-family: 'Figtree', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.boogeyman-img{
+    width: 25%;
+}
+.leather-img{
+    width: 40%;
+}
+.candyman-img{
+    width: 30%;
+}
+.freddy-img{
+    width: 30%;
+}
+.michael-img{
+    width: 30%;
+}
+.jason-img{
+    width: 30%;
+}
+.benjamin-img{
+    width: 20%;
+}
+.chucky-img{
+    width: 20%;
+}
+.ghostface{
+    width: 30%;
+}
+.jeepers-img{
+    width: 30%;
+}
+.maniac-img{
+    width: 30%;
+}
+.films{
+    font-family: 'Figtree', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.films-img{
+    width: 50%;
+}
+.psychose-img{
+    width: 40%;
+}
+.black-img{
+    width: 40%;
+}
+.halloween-img{
+    width: 35%;
+}
+.shining-img{
+    width: 35%;
+}
+.vendredi-img{
+    width: 35%;
+}
+.griffes-img{
+    width: 35%;
+}
+.enfant-img{
+    width: 33%;
+}
+.candy-img{
+    width: 30%;
+}
+.stab-img{
+    width: 30%;
+}
+.souviens-img{
+    width: 30%;
+}
